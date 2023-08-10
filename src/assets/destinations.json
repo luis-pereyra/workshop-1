@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Paris, France",
+      "description": "The City of Love",
+      "photo": "paris.jpg"
+    },
+    {
+      "title": "Tokyo, Japan",
+      "description": "The Land of the Rising Sun",
+      "photo": "tokyo.jpg"
+    },
+    {
+      "title": "New York City, USA",
+      "description": "The Big Apple",
+      "photo": "nyc.jpg"
+    },
+    {
+      "title": "Cape Town, South Africa",
+      "description": "The Mother City",
+      "photo": "cape-town.jpg"
+    },
+    {
+        "title": "Buenos Aires, Argentina",
+        "description": "La París del sur",
+        "photo": "buenos-aires.jpg"
+    }
+  ]
+  
